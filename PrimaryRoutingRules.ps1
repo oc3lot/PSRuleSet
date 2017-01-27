@@ -77,4 +77,3 @@ foreach($xmlProdFam in $ctConfig.ManageRules.ProductFamilies.ProductFamily)
     $rule.Update()
 
 }
-#git test
